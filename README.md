@@ -1,6 +1,6 @@
 # SCMP
 
-we propose a leaderless, hierarchical search-based cooperative motion planning (SCMP) method. The high-level utilizes a binary conflict search tree to minimize runtime, while the low-level fabricates kinematically feasible, collision-free paths that are shape-constrained; these are adaptable to scenarios featuring multiple shapes, groups, and elaborate obstacles. 
+We propose a leaderless, hierarchical search-based cooperative motion planning (SCMP) method. The high-level utilizes a binary conflict search tree to minimize runtime, while the low-level fabricates kinematically feasible, collision-free paths that are shape-constrained; these are adaptable to scenarios featuring multiple shapes, groups, and elaborate obstacles. 
 
 
 
